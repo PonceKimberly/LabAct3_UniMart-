@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Colors from Your Theme -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="button_color">#FF546E7A</color>
+
+    <!-- Additional Colors for Consistency -->
+    <color name="primary_color">#FF546E7A</color>
+    <color name="text_primary">#FF000000</color>
+    <color name="text_secondary">#FF666666</color>
+    <color name="background">#FFFFFFFF</color>
+</resources>
